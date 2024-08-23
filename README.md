@@ -115,6 +115,9 @@ This project implements a basic exam system using a Solidity smart contract. It 
 **Network:** EDUCHAIN
 - **Contract Address:** 0x2c53DAA191365e3BD007Bb70627232A43e9dB4c1
 
+![logosmartcontract](https://github.com/user-attachments/assets/ddef0856-a12c-413d-9d87-2c6eb3eb4394)
+![image](https://github.com/user-attachments/assets/fc23b325-ddc2-4a9e-80aa-28f051532fac)
+
 ## Vision
 
 The vision for this project is to create a decentralized and transparent exam system where exam questions and grading are managed on the blockchain, ensuring integrity and accessibility.
