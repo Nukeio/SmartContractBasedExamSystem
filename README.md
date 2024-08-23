@@ -1,4 +1,3 @@
-![logosmartcontract](https://github.com/user-attachments/assets/ddef0856-a12c-413d-9d87-2c6eb3eb4394)
 ![image](https://github.com/user-attachments/assets/fc23b325-ddc2-4a9e-80aa-28f051532fac)
 
 ---
