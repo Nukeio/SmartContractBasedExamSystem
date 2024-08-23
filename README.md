@@ -1,4 +1,5 @@
-It looks like you’re adding some comprehensive details to the README for the Smart Contract-based Exam System. If you’re looking to include additional elements like a flowchart, contract address, vision, future scope, and contact details, here’s how you might integrate them:
+![logosmartcontract](https://github.com/user-attachments/assets/ddef0856-a12c-413d-9d87-2c6eb3eb4394)
+![image](https://github.com/user-attachments/assets/fc23b325-ddc2-4a9e-80aa-28f051532fac)
 
 ---
 
@@ -120,9 +121,6 @@ This project implements a basic exam system using a Solidity smart contract. It 
 
 
 ## Vision
-![logosmartcontract](https://github.com/user-attachments/assets/ddef0856-a12c-413d-9d87-2c6eb3eb4394)
-![image](https://github.com/user-attachments/assets/fc23b325-ddc2-4a9e-80aa-28f051532fac)
-
 The vision for this project is to create a decentralized and transparent exam system where exam questions and grading are managed on the blockchain, ensuring integrity and accessibility.
 
 ## Future Scope
